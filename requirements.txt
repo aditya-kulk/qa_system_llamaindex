@@ -1,0 +1,8 @@
+llama-index           # Ensure a recent version of llama-index
+google-generativeai      # Ensure compatibility with llama-index
+llama-index-llms-gemini  # For LLMs support with Gemini
+llama-index-embeddings-gemini # For embeddings support
+pypdf                   # For PDF processing
+python-dotenv            # For managing environment variables
+IPython             # For interactive Python sessions
+streamlit>=1.24.0                # For building web apps

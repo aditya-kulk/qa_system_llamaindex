@@ -1,0 +1,204 @@
+### Overview of the CAT Exam
+
+The **Common Admission Test (CAT)** is one of the most prestigious and competitive management entrance exams in India. Conducted annually by the **Indian Institutes of Management (IIMs)**, CAT is a gateway to postgraduate programs in management, including the flagship MBA/PGDM courses offered by 20 IIMs and several other leading business schools in India. 
+
+### Objectives of the CAT Exam
+
+1. **Eligibility for MBA Programs:** To serve as a standardized test for admission to IIMs and other top B-schools.
+2. **Skill Assessment:** To evaluate candidates on their quantitative, verbal, and logical reasoning skills.
+3. **Shortlisting Tool:** To filter candidates for further rounds of selection, such as Written Ability Tests (WAT), Group Discussions (GD), and Personal Interviews (PI).
+
+---
+
+### Structure and Pattern of CAT
+
+The CAT exam is a **computer-based test** (CBT) with multiple-choice questions (MCQs) and non-MCQ (TITA) questions. It assesses three primary areas:
+
+1. **Quantitative Ability (QA):**
+   - Number of Questions: 22-26
+   - Topics: Arithmetic, Algebra, Geometry, Mensuration, Number Systems, Probability, Permutations & Combinations, Time & Work, Time-Speed-Distance.
+   - Focus: Mathematical and numerical problem-solving skills.
+
+2. **Verbal Ability and Reading Comprehension (VARC):**
+   - Number of Questions: 24-26
+   - Topics: Reading Comprehension (RC), Para-jumbles, Para-summary, Sentence Completion, Sentence Elimination.
+   - Focus: English language proficiency, grammar, and critical reading skills.
+
+3. **Data Interpretation and Logical Reasoning (DILR):**
+   - Number of Questions: 20-24
+   - Topics: Data Tables, Graphs, Charts, Logical Puzzles, Seating Arrangements, Games & Tournaments.
+   - Focus: Analytical and reasoning abilities.
+
+#### Key Features of CAT
+- **Duration:** 2 hours (40 minutes per section)
+- **Marking Scheme:** +3 for correct answers, -1 for incorrect MCQs, no negative marking for non-MCQs.
+- **Medium:** English
+- **Test Window:** Conducted in three slots in a single day, usually in November or December.
+
+---
+
+### Eligibility Criteria for CAT
+
+1. **Educational Qualification:**
+   - A bachelor’s degree with a minimum of **50% marks (45% for SC/ST/PwD candidates)**.
+   - Final-year undergraduate students are also eligible to apply.
+
+2. **Age Limit:**
+   - No upper age limit for taking the CAT exam.
+
+3. **Other Requirements:**
+   - Candidates must fulfill specific requirements as defined by individual IIMs for their respective programs.
+
+---
+
+### Registration Process
+
+1. **Online Application:**
+   - Candidates need to register on the official CAT website (**www.iimcat.ac.in**) during the application window (typically August-September).
+
+2. **Application Fee:**
+   - General: ₹2,400
+   - Reserved Categories (SC/ST/PwD): ₹1,200
+
+3. **Details Required:**
+   - Academic records, work experience, and preferred exam cities.
+   - Selection of IIM programs to apply for (done within the CAT form).
+
+4. **Admit Card:** 
+   - Released online approximately 3-4 weeks before the exam.
+
+---
+
+### Key Dates for CAT
+
+| Event                     | Approximate Timeline       |
+|---------------------------|----------------------------|
+| Notification Release      | July/August               |
+| Registration Start Date   | August                    |
+| Registration End Date     | September                 |
+| Admit Card Release        | October                   |
+| Exam Date                 | November/December         |
+| Results Announcement      | January                   |
+
+---
+
+### Participating Institutes (IIMs and Other B-Schools)
+
+#### List of IIMs Offering Admission via CAT
+
+1. **IIM Ahmedabad (IIMA):**
+   - Flagship Program: PGP (MBA)
+   - Established: 1961
+   - Ranking: Consistently ranked among the top business schools in Asia.
+
+2. **IIM Bangalore (IIMB):**
+   - Flagship Program: PGP (MBA)
+   - Established: 1973
+   - Specialization: Leadership, strategy, and innovation.
+
+3. **IIM Calcutta (IIMC):**
+   - Flagship Program: PGP (MBA)
+   - Established: 1961
+   - Known for: Finance and analytics.
+
+4. **IIM Lucknow (IIML):**
+   - Flagship Program: PGP, PGP-ABM (Agribusiness Management)
+   - Established: 1984
+
+5. **IIM Kozhikode (IIMK):**
+   - Flagship Program: PGP
+   - Established: 1996
+   - Unique Offerings: Focus on technology and entrepreneurship.
+
+6. **IIM Indore (IIMI):**
+   - Flagship Program: PGP, IPM (Integrated Program in Management)
+   - Established: 1996
+   - Unique: Offers a 5-year IPM program for undergraduates.
+
+7. **IIM Shillong:**
+   - Flagship Program: PGP
+   - Focus: Sustainable management practices.
+
+8. **IIM Rohtak, IIM Trichy, IIM Udaipur, IIM Ranchi, IIM Raipur, IIM Kashipur, IIM Nagpur, IIM Visakhapatnam, IIM Bodh Gaya, IIM Amritsar, IIM Sirmaur, IIM Sambalpur, and IIM Jammu:**
+   - These newer IIMs offer PGP programs with a focus on various management disciplines.
+
+#### Other Leading B-Schools Accepting CAT Scores
+- Faculty of Management Studies (FMS), Delhi University
+- SP Jain Institute of Management and Research (SPJIMR), Mumbai
+- Management Development Institute (MDI), Gurgaon
+- Indian Institute of Foreign Trade (IIFT), Delhi/Kolkata
+- Institute of Management Technology (IMT), Ghaziabad
+- National Institute of Industrial Engineering (NITIE), Mumbai
+
+---
+
+### Selection Process Post-CAT
+
+1. **CAT Score and Percentile:**
+   - The percentile score determines eligibility for further rounds.
+
+2. **Shortlisting Criteria by IIMs:**
+   - Weightage to CAT score, academic records, diversity (gender and academic background), and work experience.
+
+3. **Subsequent Rounds:**
+   - **Written Ability Test (WAT):** Essays on current affairs, business issues, etc.
+   - **Group Discussion (GD):** Discussion on topics to assess communication and teamwork.
+   - **Personal Interview (PI):** Focuses on candidate’s academic background, work experience, and motivation.
+
+4. **Final Selection:**
+   - Composite scores are calculated, combining CAT performance, academic records, WAT/GD-PI scores, and other factors.
+
+---
+
+### Preparation Tips for CAT
+
+1. **Understand the Syllabus and Exam Pattern:**
+   - Analyze previous years' papers and mock tests.
+
+2. **Time Management:**
+   - Allocate dedicated time for each section during preparation and the exam.
+
+3. **Mock Tests:**
+   - Take regular mocks to improve speed, accuracy, and time management.
+
+4. **Sectional Focus:**
+   - Identify and strengthen weak areas.
+   - For QA, focus on fundamental concepts and practice problems.
+   - For VARC, develop reading habits and practice comprehension.
+   - For DILR, focus on solving puzzles and interpreting data.
+
+5. **Consistency and Revision:**
+   - Revise key concepts and maintain consistency in preparation.
+
+---
+
+### CAT Results and Scorecard
+
+- **Result Declaration:** January (on the official website).
+- **Scorecard Details:**
+  - Scaled scores for each section.
+  - Overall percentile.
+  - Validity: 1 year.
+
+---
+
+### Challenges and Common Myths
+
+1. **Myth:** Only engineers can crack CAT.
+   - Fact: IIMs value diversity and admit candidates from various backgrounds.
+
+2. **Myth:** High percentile guarantees admission.
+   - Fact: CAT is only one component; academic records and interviews also matter.
+
+3. **Myth:** One needs coaching to succeed.
+   - Fact: Self-preparation with the right strategy can yield results.
+
+---
+
+### Fun Facts About CAT
+
+1. CAT began in **1950**, and the computer-based format was introduced in 2009.
+2. Approximately **2.5–3 lakh candidates** register each year, making it one of the most competitive exams globally.
+3. The percentile system ensures fair assessment across varying difficulty levels of question sets.
+
+This comprehensive information can form the basis of a QA model to answer specific queries about CAT. Let me know if you'd like additional data or specifics!
